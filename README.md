@@ -1,0 +1,3 @@
+# ternary
+
+ternary for go
